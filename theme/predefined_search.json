@@ -1,0 +1,173 @@
+[  
+  { 
+    "nombre":"Acelga",
+    "cientifico":"Beta vulgaris var. cicla",
+    "slug":"",
+    "url":"/herbaceas/acelga/",
+    "familia":"Quenopodiáceas",
+    "otros-nombres":["acelga bravía","acelga colorada","acelga común","acelga cultivada","acelga marina","acelga negra","acelgas","acelga castellana","acelga de campo","acelga silvestre","acelga loca","celga"],
+    "imagen": "/assets/images/beta-vulgaris-var.-cicla.jpg"
+  },
+  { 
+    "nombre":"Ajo",
+    "cientifico":"Allium sativum",
+    "slug":"ajo",
+    "url":"/herbaceas/ajo/",
+    "familia":"Amarilidáceas",
+    "otros-nombres":["ajete","ajo","ajo andaluz","ajo blanco","ajo castañuelo","ajo castellano","ajo común","ajo cultivado","ajo doméstico","ajo morado","ajo sanjuanero","ajo silvestre","ajos","ajos porros","rocambola"],
+    "imagen": "/assets/images/allium-sativum.jpg"
+  },
+  { 
+    "nombre":"Batata",
+    "cientifico":"Ipomoea batatas",
+    "slug":"",
+    "url":"/herbaceas/batata/",
+    "familia":"Convolvuláceas",
+    "otros-nombres":["papa dulce","patata dulce","camote","moniato","boniato"],
+    "imagen": "/assets/images/ipomoea-batatas.jpg"
+  },
+  { 
+    "nombre":"Berenjena",
+    "cientifico":"Solanum melongena",
+    "slug":"",
+    "url":"/herbaceas/berenjena/",
+    "familia":"Solanáceas",
+    "otros-nombres":["berenjena","terong","berenjena oriental","berenjena del jardín","melanzana","nasu","ngagwa","brinjal","melongene","calabaza de Guinea","planta-huevo"],
+    "imagen": "/assets/images/solanum-melongena.jpg"
+  },
+  { 
+    "nombre":"Calabacín",
+    "cientifico":"Cucurbita pepo",
+    "slug":"",
+    "url":"/herbaceas/calabacin/",
+    "familia":"Cucurbitáceas",
+    "otros-nombres":["zapallos","calabacines","zapallitos","zapallo italiano","auyamas","ahuyamas","pipianes","ayotes"],
+    "imagen": "/assets/images/cucurbita-pepo.jpg"
+  },
+  { 
+    "nombre":"Capuchina",
+    "cientifico":"Tropaeolum majus",
+    "slug":"",
+    "url":"/herbaceas/capuchina/",
+    "familia":"Tropeoláceas",
+    "otros-nombres":["capuchina","taco de reina","espuela de galán","flor de la sangre","llagas de Cristo","marañuela","mastuerzo de Indias","pelón o texao"],
+    "imagen": "/assets/images/tropaeolum-majus.jpg"
+  },
+  { 
+    "nombre":"Cebolla",
+    "cientifico":"Allium cepa",
+    "slug":"",
+    "url":"/herbaceas/cebolla/",
+    "familia":"Amarilidáceas",
+    "otros-nombres":[""],
+    "imagen": "/assets/images/allium-cepa.jpg"
+  },
+  { 
+    "nombre":"Espinacas",
+    "cientifico":"Spinaca oleracea",
+    "slug":"",
+    "url":"/herbaceas/espinaca/",
+    "familia":"Quenopodiáceas",
+    "otros-nombres":["espinaca","espinaca común","espinaca de Holanda","espinaca de invierno","espinaca de verano","espinaca hembra","espinaca macho","espinacas"],
+    "imagen": "/assets/images/spinaca-oleracea.jpg"
+  },
+  { 
+    "nombre":"Guisante",
+    "cientifico":"Pisum sativum",
+    "slug":"",
+    "url":"/herbaceas/guisante/",
+    "familia":"Leguminosas",
+    "otros-nombres":["arveja","cometodo","tirabeque"],
+    "imagen": "/assets/images/pisum-sativum.jpg"
+  },
+  { 
+    "nombre":"Lechuga",
+    "cientifico":"Lactuca sativa",
+    "slug":"",
+    "url":"/herbaceas/lechuga/",
+    "familia":"Compuestas",
+    "otros-nombres":[""],
+    "imagen": "/assets/images/lactuca-sativa.jpg"
+  },
+  { 
+    "nombre":"Lombarda",
+    "cientifico":"Brassica oleracea var. capitata f. rubra",
+    "slug":"",
+    "url":"/herbaceas/lombarda/",
+    "familia":"Crucíferas",
+    "otros-nombres":["lombarda","col lombarda","repollo morado","col morada","berza morada"],
+    "imagen": "/assets/images/brassica-oleracea-var.-capitata-f.-rubra.jpg"
+  },
+  { 
+    "nombre":"Patata",
+    "cientifico":"Solanum tuberosum",
+    "slug":"patata",
+    "url":"/herbaceas/patata/",
+    "familia":"Solanáceas",
+    "otros-nombres":["criadilla","criadillas de huerta","grillos","papa","papa americana","papa del Perú","patatera","patato","trunfa","trunfera","turma de la India","chuno","chuño"],
+    "imagen": "/assets/images/solanum-tuberosum.jpg"
+  },
+  { 
+    "nombre":"Perejil",
+    "cientifico":"Petroselinum crispum",
+    "slug":"",
+    "url":"/herbaceas/perejil/",
+    "familia":"Apiáceas",
+    "otros-nombres":["Apio","apio de piedras","ligustico do reino","ligustico peregrino","peregil","perejil","perexil","petroselino","prejil","prexil"],
+    "imagen": "/assets/images/petroselinum-crispum.jpg"
+  },
+  { 
+    "nombre":"Puerro",
+    "cientifico":"Allium ampeloprasum var. porrum",
+    "slug":"",
+    "url":"/herbaceas/puerro/",
+    "familia":"Amarilidáceas",
+    "otros-nombres":["ajoporro","porro","ajo porro","ajo puerro","poro","cebolla larga"],
+    "imagen": "/assets/images/allium-porrum.jpg"
+  },
+  { 
+    "nombre":"Rabanito",
+    "cientifico":"Raphanus sativa",
+    "slug":"",
+    "url":"/herbaceas/rabanito/",
+    "familia":"Crucíferas",
+    "otros-nombres":["rábano","rábanos","rabanillo","nabo chino","rábano blanco","rábano japonés","daikon"],
+    "imagen": "/assets/images/raphanus-sativa.jpg"
+  },
+  { 
+    "nombre":"Repollo",
+    "cientifico":"Brassica oleracea var. capitata",
+    "slug":"",
+    "url":"/herbaceas/repollo/",
+    "familia":"Crucíferas",
+    "otros-nombres":["col repollo","col cerrada","repollo blanco","berza"],
+    "imagen": "/assets/images/brassica-oleracea.jpg"
+  },
+  { 
+    "nombre":"Tagete",
+    "cientifico":"Tagetes patula",
+    "slug":"",
+    "url":"/herbaceas/tagete/",
+    "familia":"Compuestas",
+    "otros-nombres":["clavel de moro","damasquina","clavel turco","clavel de Indias"],
+    "imagen": "/assets/images/tagetes-patula.jpg"
+  },
+  { 
+    "nombre":"Tomate",
+    "cientifico":"Solanum lycopersicum",
+    "slug":"tomate",
+    "url":"/herbaceas/tomate/",
+    "familia":"Solanáceas",
+    "otros-nombres":["jitomate","tomato","pomorodo","tomatea"],
+    "imagen": "/assets/images/solanum-lycopersicum.jpg"
+  },
+  { 
+    "nombre":"Zanahoria",
+    "cientifico":"Daucus carota",
+    "slug":"zanahoria",
+    "url":"/herbaceas/zanahoria/",
+    "familia":"Apiáceas",
+    "otros-nombres":[""],
+    "imagen": "/assets/images/daucus-carota.jpg"
+  }  
+]

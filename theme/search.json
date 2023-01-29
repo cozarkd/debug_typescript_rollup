@@ -1,0 +1,398 @@
+[
+  {
+    "nombre": "Calabacín",
+    "cientifico": "Cucurbita pepo",
+    "slug": "",
+    "url": "/herbaceas/calabacin/",
+    "familia": "Cucurbitáceas",
+    "otros-nombres": ["zapallos","calabacines","zapallitos","zapallo italiano","auyamas","ahuyamas","pipianes","ayotes"],
+    "imagen": "/assets/images/cucurbita-pepo.jpg"
+  },
+  {
+    "nombre": "Patata",
+    "cientifico": "Solanum tuberosum",
+    "slug": "patata",
+    "url": "/herbaceas/patata/",
+    "familia": "Solanáceas",
+    "otros-nombres": ["criadilla","criadillas de huerta","grillos","papa","papa americana","papa del Perú","patatera","patato","trunfa","trunfera","turma de la India","chuno","chuño"],
+    "imagen": "/assets/images/solanum-tuberosum.jpg"
+  },
+  {
+    "nombre": "Calabaza",
+    "cientifico": "Cucurbita maxima",
+    "slug": "",
+    "url": "/herbaceas/calabaza/",
+    "familia": "Cucurbitáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/curcubita-maxima.jpg"
+  },
+  {
+    "nombre": "Melón",
+    "cientifico": "Cucumis melo",
+    "slug": "",
+    "url": "/herbaceas/melon/",
+    "familia": "Cucurbitáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/cucumis-melo.jpg"
+  },
+  {
+    "nombre": "Pepino",
+    "cientifico": "Curcumis sativus",
+    "slug": "",
+    "url": "/herbaceas/pepino/",
+    "familia": "Cucurbitáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/curcumis-sativus.jpg"
+  },
+  {
+    "nombre": "Sandía",
+    "cientifico": "Citrullus lanatus",
+    "slug": "",
+    "url": "/herbaceas/sandia/",
+    "familia": "Cucurbitáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/citrullus-lanatus.jpg"
+  },
+  {
+    "nombre": "Pimiento",
+    "cientifico": "Capsicum annum",
+    "slug": "",
+    "url": "/herbaceas/pimiento/",
+    "familia": "Solanáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/capsicum-annum.jpg"
+  },
+  {
+    "nombre": "Berenjena",
+    "cientifico": "Solanum melongena",
+    "slug": "",
+    "url": "/herbaceas/berenjena/",
+    "familia": "Solanáceas",
+    "otros-nombres": ["berenjena","terong","berenjena oriental","berenjena del jardín","melanzana","nasu","ngagwa","brinjal","melongene","calabaza de Guinea","planta-huevo"],
+    "imagen": "/assets/images/solanum-melongena.jpg"
+  },
+  {
+    "nombre": "Lechuga",
+    "cientifico": "Lactuca sativa",
+    "slug": "",
+    "url": "/herbaceas/lechuga/",
+    "familia": "Compuestas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/lactuca-sativa.jpg"
+  },
+  {
+    "nombre": "Girasol",
+    "cientifico": "Helianthus annuus",
+    "slug": "",
+    "url": "/herbaceas/girasol/",
+    "familia": "Compuestas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/helianthus-annuus.jpg"
+  },
+  {
+    "nombre": "Alcachofa",
+    "cientifico": "Cynara scolymus",
+    "slug": "",
+    "url": "/herbaceas/alcachofa/",
+    "familia": "Compuestas",
+    "otros-nombres": ["alcachofa","alcachofa picada","alcachofa real","alcachofa silvestre","alcachofas","alcachofera","alcachofero","alcacil","alcacil cultivado","alcací","alcancil","alcancilera","alcanciles","alcarchofa","alcarchofera","alcarcil","alcaucil","alcaucil cultivado","alcaucil silvestre","alcauciles","alcaucique","alcaucí","alcaulera","arcacil","arcancil","arcaucil","arcauciles","carchofa","cardillo","cardo","cardo alcachofero","cardo de comer","flor de cardo","morrilla","morrillera","penca"],
+    "imagen": "/assets/images/cynara-scolymus.jpg"
+  },
+  {
+    "nombre": "Tomate",
+    "cientifico": "Solanum lycopersicum",
+    "slug": "tomate",
+    "url": "/herbaceas/tomate/",
+    "familia": "Solanáceas",
+    "otros-nombres": ["jitomate","tomato","pomorodo","tomatea"],
+    "imagen": "/assets/images/solanum-lycopersicum.jpg"
+  },
+  {
+    "nombre": "Ajo",
+    "cientifico": "Allium sativum",
+    "slug": "ajo",
+    "url": "/herbaceas/ajo/",
+    "familia": "Amarilidáceas",
+    "otros-nombres": ["ajete","ajo","ajo andaluz","ajo blanco","ajo castañuelo","ajo castellano","ajo común","ajo cultivado","ajo doméstico","ajo morado","ajo sanjuanero","ajo silvestre","ajos","ajos porros","rocambola"],
+    "imagen": "/assets/images/allium-sativum.jpg"
+  },
+  {
+    "nombre": "Rabanito",
+    "cientifico": "Raphanus sativa",
+    "slug": "",
+    "url": "/herbaceas/rabanito/",
+    "familia": "Crucíferas",
+    "otros-nombres": ["rábano","rábanos","rabanillo","nabo chino","rábano blanco","rábano japonés","daikon"],
+    "imagen": "/assets/images/raphanus-sativa.jpg"
+  },
+  {
+    "nombre": "Repollo",
+    "cientifico": "Brassica oleracea var. capitata",
+    "slug": "",
+    "url": "/herbaceas/repollo/",
+    "familia": "Crucíferas",
+    "otros-nombres": ["col repollo","col cerrada","repollo blanco","berza"],
+    "imagen": "/assets/images/brassica-oleracea.jpg"
+  },
+  {
+    "nombre": "Lombarda",
+    "cientifico": "Brassica oleracea var. capitata f. rubra",
+    "slug": "",
+    "url": "/herbaceas/lombarda/",
+    "familia": "Crucíferas",
+    "otros-nombres": ["lombarda","col lombarda","repollo morado","col morada","berza morada"],
+    "imagen": "/assets/images/brassica-oleracea-var.-capitata-f.-rubra.jpg"
+  },
+  {
+    "nombre": "Coliflor",
+    "cientifico": "Brassica oleracea var. botrytis",
+    "slug": "",
+    "url": "/herbaceas/coliflor/",
+    "familia": "Crucíferas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/brassica-oleracea-var.-botrytis.jpg"
+  },
+  {
+    "nombre": "Nabo",
+    "cientifico": " Brassica rapa",
+    "slug": "",
+    "url": "/herbaceas/nabo/",
+    "familia": "Crucíferas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/brassica-rapa.jpg"
+  },
+  {
+    "nombre": "Guisante",
+    "cientifico": "Pisum sativum",
+    "slug": "",
+    "url": "/herbaceas/guisante/",
+    "familia": "Leguminosas",
+    "otros-nombres": ["arveja","cometodo","tirabeque"],
+    "imagen": "/assets/images/pisum-sativum.jpg"
+  },
+  {
+    "nombre": "Haba",
+    "cientifico": "Vicia faba",
+    "slug": "",
+    "url": "/herbaceas/haba/",
+    "familia": "Leguminosas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/vicia-faba.jpg"
+  },
+  {
+    "nombre": "Judía",
+    "cientifico": "Phaseolus vulgaris",
+    "slug": "",
+    "url": "/herbaceas/judia/",
+    "familia": "Leguminosas",
+    "otros-nombres": ["frejol","frijol","fríjol","frisol","habichuela","caraota,​ poroto,​ judía,​ fréjol","haba y alubia"],
+    "imagen": "/assets/images/phaseolus-vulgaris.jpg"
+  },
+  {
+    "nombre": "Espinacas",
+    "cientifico": "Spinaca oleracea",
+    "slug": "",
+    "url": "/herbaceas/espinaca/",
+    "familia": "Quenopodiáceas",
+    "otros-nombres": ["espinaca","espinaca común","espinaca de Holanda","espinaca de invierno","espinaca de verano","espinaca hembra","espinaca macho","espinacas"],
+    "imagen": "/assets/images/spinaca-oleracea.jpg"
+  },
+  {
+    "nombre": "Acelga",
+    "cientifico": "Beta vulgaris var. cicla",
+    "slug": "",
+    "url": "/herbaceas/acelga/",
+    "familia": "Quenopodiáceas",
+    "otros-nombres": ["acelga bravía","acelga colorada","acelga común","acelga cultivada","acelga marina","acelga negra","acelgas","acelga castellana","acelga de campo","acelga silvestre","acelga loca","celga"],
+    "imagen": "/assets/images/beta-vulgaris-var.-cicla.jpg"
+  },
+  {
+    "nombre": "Remolacha",
+    "cientifico": "Beta vulgaris var. rapa",
+    "slug": "",
+    "url": "/herbaceas/remolacha/",
+    "familia": "Quenopodiáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/beta-vulgaris-var.-rapa.jpg"
+  },
+  {
+    "nombre": "Cebolla",
+    "cientifico": "Allium cepa",
+    "slug": "",
+    "url": "/herbaceas/cebolla/",
+    "familia": "Amarilidáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/allium-cepa.jpg"
+  },
+  {
+    "nombre": "Puerro",
+    "cientifico": "Allium ampeloprasum var. porrum",
+    "slug": "",
+    "url": "/herbaceas/puerro/",
+    "familia": "Amarilidáceas",
+    "otros-nombres": ["ajoporro","porro","ajo porro","ajo puerro","poro","cebolla larga"],
+    "imagen": "/assets/images/allium-porrum.jpg"
+  },
+  {
+    "nombre": "Zanahoria",
+    "cientifico": "Daucus carota",
+    "slug": "zanahoria",
+    "url": "/herbaceas/zanahoria/",
+    "familia": "Apiáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/daucus-carota.jpg"
+  },
+  {
+    "nombre": "Maíz",
+    "cientifico": "Zea mays",
+    "slug": "",
+    "url": "/herbaceas/maiz/",
+    "familia": "Gramíneas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/zea-mays.jpg"
+  },
+  {
+    "nombre": "Capuchina",
+    "cientifico": "Tropaeolum majus",
+    "slug": "",
+    "url": "/herbaceas/capuchina/",
+    "familia": "Tropeoláceas",
+    "otros-nombres": ["capuchina","taco de reina","espuela de galán","flor de la sangre","llagas de Cristo","marañuela","mastuerzo de Indias","pelón o texao"],
+    "imagen": "/assets/images/tropaeolum-majus.jpg"
+  },
+  {
+    "nombre": "Perejil",
+    "cientifico": "Petroselinum crispum",
+    "slug": "",
+    "url": "/herbaceas/perejil/",
+    "familia": "Apiáceas",
+    "otros-nombres": ["Apio","apio de piedras","ligustico do reino","ligustico peregrino","peregil","perejil","perexil","petroselino","prejil","prexil"],
+    "imagen": "/assets/images/petroselinum-crispum.jpg"
+  },
+  {
+    "nombre": "Tagete",
+    "cientifico": "Tagetes patula",
+    "slug": "",
+    "url": "/herbaceas/tagete/",
+    "familia": "Compuestas",
+    "otros-nombres": ["clavel de moro","damasquina","clavel turco","clavel de Indias"],
+    "imagen": "/assets/images/tagetes-patula.jpg"
+  },
+  {
+    "nombre": "Apio",
+    "cientifico": "Apium graveolens var. graveolens",
+    "slug": "",
+    "url": "/herbaceas/apio/",
+    "familia": "Apiáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/apium-graveolens-var-graveolens.jpg"
+  },
+  {
+    "nombre": "Fresa",
+    "cientifico": "Fragaria × ananassa",
+    "slug": "",
+    "url": "/herbaceas/fresa/",
+    "familia": "Rosáceas",
+    "otros-nombres": ["frutilla","fragaria"],
+    "imagen": "/assets/images/fragaria-ananassa.jpg"
+  },
+  {
+    "nombre": "Batata",
+    "cientifico": "Ipomoea batatas",
+    "slug": "",
+    "url": "/herbaceas/batata/",
+    "familia": "Convolvuláceas",
+    "otros-nombres": ["papa dulce","patata dulce","camote","moniato","boniato"],
+    "imagen": "/assets/images/ipomoea-batatas.jpg"
+  },
+  {
+    "nombre": "Brócoli",
+    "cientifico": "Brassica oleracea var. italica",
+    "slug": "",
+    "url": "/herbaceas/brocoli/",
+    "familia": "Crucíferas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/brassica-oleracea-var-italica.jpg"
+  },
+  {
+    "nombre": "Escarola",
+    "cientifico": "Cichorium endivia",
+    "slug": "",
+    "url": "/herbaceas/escarola/",
+    "familia": "Compuestas",
+    "otros-nombres": ["endivia","achicoria"],
+    "imagen": "/assets/images/cichorium-endivia.jpg"
+  },
+  {
+    "nombre": "Espárrago",
+    "cientifico": "Asparagus officinalis",
+    "slug": "",
+    "url": "/herbaceas/esparrago/",
+    "familia": "",
+    "otros-nombres": ["esparraguera"],
+    "imagen": "/assets/images/asparagus-officinalis.jpg"
+  },
+  {
+    "nombre": "Hinojo",
+    "cientifico": "Foeniculum vulgare",
+    "slug": "",
+    "url": "/herbaceas/hinojo/",
+    "familia": "Apiáceas",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/foeniculum-vulgare.jpg"
+  },
+  {
+    "nombre": "Rúcula",
+    "cientifico": "Eruca vesicaria",
+    "slug": "",
+    "url": "/herbaceas/rucula/",
+    "familia": "Crucíferas",
+    "otros-nombres": ["rúgula"],
+    "imagen": "/assets/images/eruca-vesicaria.jpg"
+  },
+  {
+    "nombre": "Borraja",
+    "cientifico": "Borago officinalis",
+    "slug": "",
+    "url": "/herbaceas/borraja/",
+    "familia": "",
+    "otros-nombres": [""],
+    "imagen": "/assets/images/borago-officinalis.jpg"
+  },
+  {
+    "nombre": "Caléndula",
+    "cientifico": "Calendula officinalis",
+    "slug": "",
+    "url": "/herbaceas/calendula/",
+    "familia": "Compuestas",
+    "otros-nombres": ["botón de oro","mercadela","maravilla"],
+    "imagen": "/assets/images/calendula-officinalis.jpg"
+  },
+  {
+    "nombre": "Albahaca",
+    "cientifico": "Ocimum basilicum",
+    "slug": "",
+    "url": "/herbaceas/albahaca/",
+    "familia": "Lamiáceas",
+    "otros-nombres": ["alhábega","basílico"],
+    "imagen": "/assets/images/ocimum-basilicum.jpg"
+  },
+  {
+    "nombre": "Romanesco",
+    "cientifico": "Brassica oleracea var. botrytis",
+    "slug": "",
+    "url": "/herbaceas/romanesco/",
+    "familia": "Crucíferas",
+    "otros-nombres": ["romicio"],
+    "imagen": "/assets/images/brassica-oleracea-var-botrytis.jpg"
+  },
+  {
+    "nombre": "Kale",
+    "cientifico": "Brassica oleracea var. sabellica",
+    "slug": "",
+    "url": "/herbaceas/kale/",
+    "familia": "Crucíferas",
+    "otros-nombres": ["col crespa","col rizada","kale portuguesa"],
+    "imagen": "/assets/images/brassica-oleracea-var-sabellica.jpg"
+  }
+]
